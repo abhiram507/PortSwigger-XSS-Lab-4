@@ -152,7 +152,7 @@ Proof of Exploitation:
 Figure 1: Malicious payload in ?search= parameter.
 
 
-![Proof of Successful XSS Exploitation]()
+![Proof of Successful XSS Exploitation](https://github.com/abhiram507/PortSwigger-XSS-Lab-4/blob/843b291dbbccd68e9fce338d621db78da981cc11/PortSwigger%20XSS%20Lab%204%20success.png)
 
 Figure 2: JavaScript alert(1) pops up on page load due to DOM XSS.
 
