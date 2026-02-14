@@ -147,7 +147,7 @@ Content-Length: 6849
 Proof of Exploitation:
 
 
-![Proof of XSS  Error]()
+![Proof of XSS  Error](https://github.com/abhiram507/PortSwigger-XSS-Lab-4/blob/608231fb1962dc6165538d4d71b5b689e77f996e/Portswigger%20XSS%20Lab%204%20error%201.png)
 
 Figure 1: Malicious payload in ?search= parameter.
 
